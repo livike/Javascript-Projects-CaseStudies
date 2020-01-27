@@ -57,6 +57,7 @@ body {
   padding: 0 5px;
   background-color: #1b1b1b;
   z-index: 1000;
+  transition: all 0.3s ease-in-out;
 }
 
 .nav-sidebar ul {
@@ -80,6 +81,7 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   font-size:16px ;
   white-space: nowrap;
+  transition: all 0.3s ease-in-out;
 }
 
 .nav-sidebar ul li a:hover {
